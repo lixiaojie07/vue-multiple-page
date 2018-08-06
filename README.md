@@ -1,6 +1,6 @@
 # myapp
 
-> A Vue.js project
+>最近公司项目应用到vue多页 就自己研究了一番 实现了多页跳转 后续项目加进来 会继续完善
 
 ## Build Setup
 
